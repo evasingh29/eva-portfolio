@@ -1,0 +1,45 @@
+@import "tailwindcss";
+
+@theme {
+  --color-iowa-gold: #FFCD00;
+  --color-iowa-black: #000000;
+  --font-mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+}
+
+@layer base {
+  body {
+    @apply bg-iowa-black text-gray-200 font-sans antialiased;
+  }
+}
+
+.gold-accent {
+  color: var(--color-iowa-gold);
+}
+.bg-gold-accent {
+  background-color: var(--color-iowa-gold);
+}
+.border-gold-accent {
+  border-color: var(--color-iowa-gold);
+}
+
+/* Cute developer aesthetic utilities */
+.retro-border {
+  border: 2px solid #333;
+  box-shadow: 4px 4px 0px var(--color-iowa-gold);
+}
+
+.pixel-corners {
+  clip-path: polygon(
+    0 4px, 4px 4px, 4px 0, calc(100% - 4px) 0, calc(100% - 4px) 4px, 100% 4px,
+    100% calc(100% - 4px), calc(100% - 4px) calc(100% - 4px), calc(100% - 4px) 100%,
+    4px 100%, 4px calc(100% - 4px), 0 calc(100% - 4px)
+  );
+}
+
+.hover-lift {
+  transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+}
+.hover-lift:hover {
+  transform: translateY(-4px);
+  box-shadow: 4px 8px 0px var(--color-iowa-gold);
+}
