@@ -12,7 +12,7 @@
       </p>
 
       <div class="flex flex-wrap items-center gap-4 pt-4">
-        <a href="/resume.pdf" target="_blank" class="border border-iowa-gold text-iowa-gold px-6 py-2 rounded hover:bg-iowa-gold/10 transition-colors">
+        <a href="https://evasingh29.github.io/eva-portfolio/resume.pdf" target="_blank" class="border border-iowa-gold text-iowa-gold px-6 py-2 rounded hover:bg-iowa-gold/10 transition-colors">
           Resume
         </a>
         <a href="https://github.com/evasingh29" target="_blank" class="text-gray-400 hover:text-white p-2 transition-colors" title="GitHub" aria-label="GitHub">

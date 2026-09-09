@@ -11,7 +11,7 @@ const links = [
   { name: 'Awards', href: '#awards' },
   { name: 'Involvement', href: '#involvement' },
   { name: 'Skills', href: '#skills' },
-  { name: 'Resume', href: '/resume.pdf' }
+  { name: 'Resume', href: 'https://evasingh29.github.io/eva-portfolio/resume.pdf' }
 ]
 </script>
 
