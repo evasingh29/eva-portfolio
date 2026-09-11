@@ -3,7 +3,7 @@
     <div class="flex-1 space-y-6">
       <div>
         <p class="font-mono text-iowa-gold mb-2">Hello! I am</p>
-        <h1 class="text-5xl md:text-7xl font-bold text-white mb-4">Eva Singh.</h1>
+        <h1 class="text-5xl md:text-7xl font-bold text-white mb-4">Eva Singh</h1>
         <h2 class="text-2xl md:text-3xl text-gray-400">Computer Science & Engineering Student</h2>
       </div>
       
