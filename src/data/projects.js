@@ -12,7 +12,7 @@ export const projects = [
   {
     id: 2,
     title: 'Silly Goose Club (Multiplayer Game)',
-    description: 'Multiplayer game engineered with Java and multithreaded TCP client-server architecture, synchronizing concurrent game state across active rooms. Won 1st place in Software Design hackathon.',
+    description: 'Group Project: Multiplayer game engineered with Java and multithreaded TCP client-server architecture, synchronizing concurrent game state across active rooms. Won 1st place in Software Design hackathon.',
     technologies: ['Java', 'Multithreading', 'TCP Sockets', 'Network Programming'],
     githubUrl: '',
     liveUrl: '',
