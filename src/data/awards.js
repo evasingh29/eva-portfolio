@@ -44,7 +44,7 @@ export const awards = [
   {
     id: 8,
     title: '1st Place – Musco Department Hackathon',
-    date: '2025',
+    date: '2026',
     description: 'Won 1st place among 6 teams for developing "MuscoBoard," a live real-time sports scoreboard system.'
   }
 ];
