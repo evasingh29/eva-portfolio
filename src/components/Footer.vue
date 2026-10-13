@@ -17,9 +17,8 @@
       </div>
       
       <div class="text-center">
-        <p class="text-gray-400 font-mono text-sm">Designed & Built by</p>
+        <p class="text-gray-400 font-mono text-sm">Built by</p>
         <p class="text-iowa-gold font-bold mt-1">Eva Singh</p>
-        <p class="text-gray-600 text-xs mt-2">Software Engineer / CSE Student</p>
       </div>
 
       <div class="mt-8 flex gap-1 items-center justify-center text-gray-700">
