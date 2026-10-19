@@ -18,5 +18,24 @@ export const projects = [
     liveUrl: '',
     videoUrl: 'https://youtu.be/7yfZ-cZKKXQ', 
     featured: true,
-  }
+  },
+
+  {
+    id: 3,
+    title: 'REALIGN (AI Revenue Briefing Agent)',
+    description: 'Built the backend and AI workflow for an agentic revenue briefing application at the Xorbix × Iowa Databricks Hackathon. Developed a synthetic data generator, integrated the AI agent with the frontend, and deployed using Databricks Asset Bundles. Won 1st Place Overall out of 8 teams.',
+    technologies: [
+      'Python',
+      'Databricks',
+      'Agentic AI',
+      'Databricks Asset Bundles',
+      'API Integration'
+    ],
+    githubUrl: 'https://github.com/evasingh29/chiro_agentic_ai_hackathon',
+    liveUrl: '',
+    videoUrl: '',
+    award: '1st Place Overall',
+    featured: true,
+  },
+
 ];
