@@ -9,7 +9,7 @@ export const experience = [
       'Analyzed and visualized 100,000+ telemetry records via Vue.js dashboards, enabling stakeholders to make data-driven product decisions.',
       'Engineered Flask and Socket.IO APIs for real-time data routing and low-latency streaming.',
       'Authored database queries and tested 25+ API endpoints in Postman to validate reliability and performance.',
-      'Modeled and improved Python-based game calculation logic by 40%, processing large-scale JSON datasets for sports data.',
+      'Modeled and improved Python-based game calculation, processing large-scale JSON datasets for sports data.',
       'Containerized services with Docker and deployed via AWS ECR for consistent environments across systems.',
       'Led development of "MuscoBoard," a live scoreboard system built from scratch, winning a department-wide hackathon among 6 teams under a tight deadline.',
       'Evaluated text-to-speech models for emerging sports technology applications.'
